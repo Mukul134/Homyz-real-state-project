@@ -1,5 +1,6 @@
-REAL ESTATE 
+REAL-ESTATE (HOMYZ)
 
+## 📸 Screenshots
 <img width="1747" height="839" alt="Screenshot 2025-07-26 164941" src="https://github.com/user-attachments/assets/fba87d42-a5e2-4672-8c07-50421c1ebd6e" />
 
 <img width="1741" height="844" alt="Screenshot 2025-07-26 165025" src="https://github.com/user-attachments/assets/fd2f2896-b270-4458-9b6a-227ec37c0153" />
